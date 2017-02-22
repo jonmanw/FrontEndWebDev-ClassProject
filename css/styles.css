@@ -376,3 +376,14 @@ input.button:hover {
 .red {
   color: #871719;
 }
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+footer {
+  display: flex;
+  background-color: rgba(0,0,0,.8);
+  color: white;
+  align-items: stretch;
+  flex-direction: row;
+}
